@@ -1,1 +1,1 @@
-My homepage [weishi.de](weishi.de)
+My homepage [weishi.de](http://weishi.de)
