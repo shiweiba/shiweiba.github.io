@@ -27,7 +27,7 @@
       <div id="contact-details">
         <p class="contact"><span>Email: </span><a href="mailto:wxxxxxxxx.shi@coli.uni-saarland.de?Subject=Hello" onmouseover="this.href=this.href.replace(/x/g,'');" target="_top">Mail</a></p>
         <p class="contact"><span>Phone: </span>+49(0)681 302 70027</p>
-        <p class="contact"><span>Address: </span>Campus, Building C7.4, Room 3.01, <br/>&emsp;&emsp;&emsp;&emsp;&emsp; Universit&aumlt des Saarlandes,<br/>&emsp;&emsp;&emsp;&emsp;&emsp; 66123, Saarbr&uumlcken, Germany </p>
+        <p class="contact"><span>Address: </span>Campus, Building C7.2, Room 3.11, <br/>&emsp;&emsp;&emsp;&emsp;&emsp; Universit&aumlt des Saarlandes,<br/>&emsp;&emsp;&emsp;&emsp;&emsp; 66123, Saarbr&uumlcken, Germany </p>
       </div>
     </div>
     <!--end header-content-->
@@ -74,7 +74,7 @@
     <div id="experience" class="cv-section">
       <h3>Publications</h3>
       <p>
-      <B>Using Explicit Discourse Relation Connectives in Translation for Implicit Discourse Relation Classification.</B> [<a href=./paper/ijcnlp17.pdf>paper</a>] [<a href=./paper/data/data_ijcnlp17.tar.gz>data</a>]
+      <B>Using Explicit Discourse Relation Connectives in Translation for Implicit Discourse Relation Classification.</B> [<a href=./paper/ijcnlp17.pdf>paper</a>] [<a href=http://www.sfb1102.uni-saarland.de/?page_id=2582>data</a>]
 		<br>
 		<B>Wei Shi</B>, Frances Yung, Raphael Rubino and Vera Demberg
 		<br>
