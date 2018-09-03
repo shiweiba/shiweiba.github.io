@@ -57,14 +57,15 @@
       <h3>Education</h3>
       <p>July, 2016 - Present<br>
       Ph.D Candidate, Department of Computational Linguistics and Phonetics, <b>Saarland University</b>, Saarbr&uumlcken, Germany.<br>
-      Supervisor: <a href="http://www.coli.uni-saarland.de/~vera">Prof. Dr. Vera Demberg.</a><br><br>
+      Advisor: <a href="http://www.coli.uni-saarland.de/~vera">Prof. Dr. Vera Demberg.</a><br><br>
       
       Sept., 2013 - June, 2016<br>
       M.Sc, Computer Science, <b>Institute of Automation, Chinese Academy of Sciences</b>, Beijing, China.<br>
-      Supervisor: Prof. Hongwei Hao<br><br>
+      Advisor: Prof. Dr. Hongwei Hao and Prof. Dr. Bo Xu<br><br>
       
       Sept., 2008 - June, 2012<br>
-      B.Eng, Automation, Department of Power and Mechanical Engineering, <b>Wuhan University</b>, Hubei, China.
+      B.Eng, Automation, Department of Power and Mechanical Engineering, <b>Wuhan University</b>, Hubei, China.<br>
+      Advisor: Dr. Li Ding
       </p>
     </div>
     <!--end education-->
@@ -74,21 +75,28 @@
     <div id="experience" class="cv-section">
       <h3>Publications</h3>
       <p>
-      <B>Using Explicit Discourse Relation Connectives in Translation for Implicit Discourse Relation Classification.</B> [<a href=./paper/ijcnlp17.pdf>paper</a>] [<a href=http://www.sfb1102.uni-saarland.de/?page_id=2582>data</a>]
+      <B>Acquiring Annotated Data with Cross-lingual Explicitation for Implicit Discourse Relation Classification.</B> [<a href=>paper</a>]
+      <br>
+      <B>Wei Shi</B>, Frances Yung and Vera Demberg
+      <br>
+      <I></I>
+      </p>
+      <p>
+      <B>Using Explicit Discourse Relation Connectives in Translation for Implicit Discourse Relation Classification.</B> [<a href=http://www.aclweb.org/anthology/I17-1049>paper</a>] [<a href=http://www.sfb1102.uni-saarland.de/?page_id=2582>data</a>]
 		<br>
 		<B>Wei Shi</B>, Frances Yung, Raphael Rubino and Vera Demberg
 		<br>
 		<I>In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP-2017), page 484-495, Novermber 27- December 1, 2017, Taipei, Taiwan</I>
 		</p>
 		<p>
-    <B>On the Need of Cross Validation for Discourse Relation Classification.</B> [<a href=./paper/eacl17_cv.pdf>paper</a>]
+    <B>On the Need of Cross Validation for Discourse Relation Classification.</B> [<a href=http://www.aclweb.org/anthology/E17-2024>paper</a>]
 		<br>
 		<B>Wei Shi</B> and Vera Demberg
 		<br>
 		<I>In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2017), page 150-156, April 3-7, 2017, Valencia, Spain.</I>
 		</p>
 		<p>
-    <B>Attention-based Bidirectional Long Short-term Memory Networks for Relation Classification.</B> [<a href=./paper/acl16_alstm.pdf>paper</a>]
+    <B>Attention-based Bidirectional Long Short-term Memory Networks for Relation Classification.</B> [<a href=http://www.aclweb.org/anthology/P16-2034>paper</a>]
 		<br>
 		Peng Zhou, <B>Wei Shi</B>, Jun Tian, Zhenyu Qi, Bingchen Li, Hongwei Hao, and Bo Xu.
 		<br>
