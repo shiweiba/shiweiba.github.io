@@ -20,7 +20,7 @@
     <div id="header-content">
       <h1>Wei Shi (&#26045;&#20255;)</h1>
       <h2>Ph.D Candidate / Junior Researcher</h2>
-      <p>Wei Shi is a Ph.D Candidate and Junior Researcher working on Natural Language Processing, under the supervision of <a href="http://www.coli.uni-saarland.de/~vera">Prof. Dr. Vera Demberg</a>,
+      <p>Wei Shi is a Ph.D Candidate and Junior Researcher working on Natural Language Processing, under the supervision of <a href="https://www.uni-saarland.de/lehrstuhl/demberg/members/team.html">Prof. Dr. Vera Demberg</a>,
       at <a href="http://www.coli.uni-saarland.de/">Department of Computational Linguistics & Phonetics.</a> and Collaborative Research Center <a href="http://www.sfb1102.uni-saarland.de/">SFB-1102</a>
        of <a href="http://www.uni-saarland.de/">Saarland University</a> in Germany. 
       Right now he is mostly working on Discourse Relation Parsing and Text Classification. He is also interested in using deep learning methods to solve NLP related tasks.</p>
@@ -31,7 +31,7 @@
       </div>
     </div>
     <!--end header-content-->
-    <div id="header-photo"> <img src="images/wshi.jpg" alt="" /> <!--div class="line"></div--> <br>     
+    <div id="header-photo"> <img src="images/sw.jpg" alt="" /> <!--div class="line"></div--> <br>     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	 <!-- Add font awesome icons -->
 	 <a href="https://scholar.google.com/citations?user=uUp-o9IAAAAJ&hl=en" class="fa fa-google"></a>
@@ -75,11 +75,18 @@
     <div id="experience" class="cv-section">
       <h3>Publications</h3>
       <p>
-      <B>Acquiring Annotated Data with Cross-lingual Explicitation for Implicit Discourse Relation Classification.</B> [<a href=>paper</a>]
+      <B>Learning to Explicitate Connectives with Seq2Seq Network for Implicit Discourse Relation Classification.</B> [<a href=https://arxiv.org/pdf/1811.01697.pdf>paper</a>]
+      <br>
+      <B>Wei Shi</B> and Vera Demberg
+      <br>
+      <I>arXiv preprint, arXiv:1811.01697</I>
+      </p>
+      <p>
+      <B>Acquiring Annotated Data with Cross-lingual Explicitation for Implicit Discourse Relation Classification.</B> [<a href=https://arxiv.org/pdf/1808.10290.pdf>paper</a>]
       <br>
       <B>Wei Shi</B>, Frances Yung and Vera Demberg
       <br>
-      <I></I>
+      <I>arXiv preprint, arXiv:1808.10290</I>
       </p>
       <p>
       <B>Using Explicit Discourse Relation Connectives in Translation for Implicit Discourse Relation Classification.</B> [<a href=http://www.aclweb.org/anthology/I17-1049>paper</a>] [<a href=http://www.sfb1102.uni-saarland.de/?page_id=2582>data</a>]
@@ -129,6 +136,6 @@
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&d=5mSiN96loIZvfYd3z7bhkGdVqbvuks-uwnIiUvgM8UA'></script>
 
 <hr>
-Last updated: 24-Dec-2017
+Last updated: 8-Nov-2018
 </body>
 </html>

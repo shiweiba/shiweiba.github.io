@@ -76,7 +76,7 @@ a:hover{
 }
 #header #header-content{
 	float:right;
-	width:430px;
+	width:400px;
 }
 #header #header-content h1{
 	margin:0 0 2px 0;
