@@ -65,7 +65,6 @@
       
       Sept., 2008 - June, 2012<br>
       B.Eng, Automation, Department of Power and Mechanical Engineering, <b>Wuhan University</b>, Hubei, China.<br>
-      Advisor: Dr. Li Ding
       </p>
     </div>
     <!--end education-->
@@ -75,19 +74,21 @@
     <div id="experience" class="cv-section">
       <h3>Publications</h3>
       <p>
-      <B>Learning to Explicitate Connectives with Seq2Seq Network for Implicit Discourse Relation Classification.</B> [<a href=https://arxiv.org/pdf/1811.01697.pdf>paper</a>]
-      <br>
-      <B>Wei Shi</B> and Vera Demberg
-      <br>
-      <I>arXiv preprint, arXiv:1811.01697</I>
-      </p>
-      <p>
-      <B>Acquiring Annotated Data with Cross-lingual Explicitation for Implicit Discourse Relation Classification.</B> [<a href=https://arxiv.org/pdf/1808.10290.pdf>paper</a>]
+      <B>Acquiring Annotated Data with Cross-lingual Explicitation for Implicit Discourse Relation Classification.</B> (to appear)
       <br>
       <B>Wei Shi</B>, Frances Yung and Vera Demberg
       <br>
-      <I>arXiv preprint, arXiv:1808.10290</I>
+      <I>In Proceedings of the 7th Workshop on Rhetorical Structure Theory and Related Formalisms (DISRPT@NAACL-2019), Minneapolis, USA</I>
       </p>
+      
+      <p>
+      <B>Learning to Explicitate Connectives with Seq2Seq Network for Implicit Discourse Relation Classification.</B> (to appear)
+      <br>
+      <B>Wei Shi</B> and Vera Demberg
+      <br>
+      <I>In Proceedings of the 13th International Conference on Computational Semantics (IWCS-2019), Gothenburg, Sweden</I>
+      </p>
+      
       <p>
       <B>Using Explicit Discourse Relation Connectives in Translation for Implicit Discourse Relation Classification.</B> [<a href=http://www.aclweb.org/anthology/I17-1049>paper</a>] [<a href=http://www.sfb1102.uni-saarland.de/?page_id=2582>data</a>]
 		<br>
@@ -95,6 +96,7 @@
 		<br>
 		<I>In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP-2017), page 484-495, Novermber 27- December 1, 2017, Taipei, Taiwan</I>
 		</p>
+		
 		<p>
     <B>On the Need of Cross Validation for Discourse Relation Classification.</B> [<a href=http://www.aclweb.org/anthology/E17-2024>paper</a>]
 		<br>
@@ -102,6 +104,7 @@
 		<br>
 		<I>In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL-2017), page 150-156, April 3-7, 2017, Valencia, Spain.</I>
 		</p>
+		
 		<p>
     <B>Attention-based Bidirectional Long Short-term Memory Networks for Relation Classification.</B> [<a href=http://www.aclweb.org/anthology/P16-2034>paper</a>]
 		<br>
