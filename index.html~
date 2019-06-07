@@ -73,9 +73,9 @@
   
     <div id="experience" class="cv-section">
       <h3>Publications</h3>
-      
+      <ul>
 		<p>
-      <B>A Hybrid Model for Globally Coherent Story Generation.</B> (to appear)
+      <li><B>A Hybrid Model for Globally Coherent Story Generation.</B> (to appear)</li>
       <br>
       Fangzhou Zhai, Vera Demberg, Pavel Shkadzko, <B>Wei Shi</B> and Asad Sayeed
       <br>
@@ -122,7 +122,7 @@
 		<I>In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (ACL-2016), page 207-212, August 07-12, 2016, Berlin, Germany.
 		</p>
 		
-		
+		</ol>
   </div>
 
   <hr width="20%">
