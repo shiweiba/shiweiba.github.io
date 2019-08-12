@@ -52,7 +52,7 @@ h5{
 }
 p{
 	font-size:22px;
-	line-height:24px;
+	line-height:22px;
 	margin:0 0 15px 0;
 }
 a{
@@ -76,7 +76,7 @@ a:hover{
 }
 #header #header-content{
 	float:right;
-	width:470px;
+	width:450px;
 }
 #header #header-content h1{
 	margin:0 0 2px 0;
@@ -113,8 +113,8 @@ a:hover{
 	box-shadow:0 0 10px #aaa;
 }
 #header #header-photo img{
-	width:280px;
-	height:420px;
+	width:250px;
+	height:375px;
 	border:1px #ddd solid;
 }
 /* ------------- */
@@ -148,7 +148,7 @@ a:hover{
 }
 
 .fa {
-  padding: 11px;
+  padding: 8px;
   font-size: 10px;
   width: 15px;
   text-align: center;
