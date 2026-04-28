@@ -1,0 +1,10 @@
+baseurl: "" # user site, no subpath needed
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
+
+collections:
+  - publications
+  - news

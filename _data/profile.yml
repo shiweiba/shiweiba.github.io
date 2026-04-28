@@ -1,0 +1,56 @@
+primary_name: "Wei Shi"
+secondary_name: "施伟"
+navbar_name: "Wei Shi 施伟"
+
+positions:
+- name: LLM Algorithm Engineer
+
+email: "w.shi@coli.uni-saarland.de"
+gscholar: uUp-o9IAAAAJ
+github: shiweiba
+twitter: shiweiba
+linkedin: shiweiba
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    Wei Shi received his Ph.D. <i>Magna Cum Laude</i> in December 2020 from
+    <a href="http://www.uni-saarland.de/" target="_blank">Saarland University</a> in Germany,
+    where he worked on Natural Language Processing under the supervision of
+    <a href="https://www.uni-saarland.de/lehrstuhl/demberg/members/team.html" target="_blank">Prof. Dr. Vera Demberg</a>
+    at the <a href="http://www.uni-saarland.de/en/department/lst.html" target="_blank">Department of Language Science and Technology</a>
+    and Collaborative Research Center <a href="http://www.sfb1102.uni-saarland.de/" target="_blank">SFB-1102</a>.
+  </p>
+  <p>
+    After graduation, he joined DAMO Academy, Alibaba Group as a Senior Algorithm Engineer in 2021,
+    and later MiniMax Inc. in 2022, focusing on Large Language Models and Multimodal AI.
+  </p>
+  <p>
+    His research interests include <b>Large Language Models</b>, <b>Multimodal AI</b>,
+    <b>Discourse Relation Parsing</b>, <b>Sentiment Analysis</b>, <b>Text Generation</b>,
+    and <b>Natural Language Understanding</b>.
+  </p>
+
+portrait_url: /profile.jpg
+
+education:
+- name: Saarland University
+  position: >-
+    Ph.D. in Computational Linguistics <br/>
+    Advisor: Prof. Dr. Vera Demberg
+  date: 2016 - 2020
+- name: Chinese Academy of Sciences
+  dept: Institute of Automation
+  position: M.Sc. in Computer Science
+  date: 2013 - 2016
+- name: Wuhan University
+  position: B.Eng. in Automation
+  date: 2008 - 2012
+
+experience:
+- name: MiniMax Inc.
+  position: LLM Algorithm Engineer
+  date: Jun. 2022 - Jan. 2024
+- name: DAMO Academy, Alibaba Group
+  position: Senior Algorithm Engineer
+  date: 2021 - 2022

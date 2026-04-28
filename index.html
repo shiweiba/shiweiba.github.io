@@ -1,197 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wei Shi | Homepage</title>
-    <link rel="icon" href="favicon.png">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
-</head>
-<body>
-    <div class="container">
-        <header class="header">
-            <div class="profile-section">
-                <img src="profile.jpg" alt="Wei Shi" class="profile-photo">
-                <div class="profile-info">
-                    <h1 class="name">Wei Shi</h1>
-                    <p class="chinese-name">施伟 (shī wěi)</p>
-                    <p class="title">LLM Algorithm Engineer</p>
-                    
-                    <div class="contact-info">
-                        <p class="email">
-                            <i class="fas fa-envelope"></i>
-                            <a href="mailto:wxxxxxxxx.shi@coli.uni-saarland.de?Subject=Hello" onmouseover="this.href=this.href.replace(/x/g,'');">Email</a>
-                        </p>
-                    </div>
+---
+layout: default
+title: Homepage
+navbar_title: Home
+---
 
-                    <div class="social-links">
-                        <a href="https://scholar.google.com/citations?user=uUp-o9IAAAAJ&hl=en" title="Google Scholar">
-                            <i class="fab fa-google"></i>
-                        </a>
-                        <a href="https://github.com/shiweiba/" title="GitHub">
-                            <i class="fab fa-github"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/in/shiweiba/" title="LinkedIn">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="https://twitter.com/shiweiba" title="Twitter">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </header>
-
-        <main class="main-content">
-            <section class="about">
-                <p class="bio">
-                    Wei Shi received his Ph.D. Magna Cum Laude in December 2020 and joined DAMO Academy, Alibaba Group as a Senior Algorithm Engineer in 2021. He was a Ph.D. candidate and junior researcher working on Natural Language Processing under the supervision of <a href="https://www.uni-saarland.de/lehrstuhl/demberg/members/team.html">Prof. Dr. Vera Demberg</a> at <a href="http://www.uni-saarland.de/en/department/lst.html"> Department of Language Science and Technology</a> and Collaborative Research Center <a href="http://www.sfb1102.uni-saarland.de/">SFB-1102</a> of <a href="http://www.uni-saarland.de/">Saarland University</a> in Germany.
-                </p>
-                
-                <div class="updates">
-                    <div class="update-item">
-                        <span class="date">2024-01:</span>
-                        <span class="text">Wei Shi has left MiniMax Inc, but is still working on LLMs.</span>
-                    </div>
-                    <div class="update-item">
-                        <span class="date">2022-06:</span>
-                        <span class="text">Wei Shi has left Alibaba and joined MiniMax Inc., a startup company focusing on LLM and Multimodality models.</span>
-                    </div>
-                </div>
-            </section>
-
-            <section class="research-interests">
-                <h3>Research Interests</h3>
-                <p>Large Language Models, Multimodal AI, Discourse Relation Parsing, Sentiment Analysis, Text Generation, Relation Extraction, Deep Learning, Natural Language Understanding</p>
-            </section>
-
-            <section class="education">
-                <h3>Education</h3>
-                <div class="education-item">
-                    <div class="period">2016 – 2020</div>
-                    <div class="details">
-                        <h4>Ph.D. in Computational Linguistics</h4>
-                        <p class="institution">Saarland University, Germany</p>
-                        <p class="advisor">Advisor: <a href="http://www.coli.uni-saarland.de/~vera">Prof. Dr. Vera Demberg</a></p>
-                    </div>
-                </div>
-                
-                <div class="education-item">
-                    <div class="period">2013 – 2016</div>
-                    <div class="details">
-                        <h4>M.Sc. in Computer Science</h4>
-                        <p class="institution">Institute of Automation, Chinese Academy of Sciences, Beijing, China</p>
-                        <p class="advisor">Advisors: Prof. Dr. Hongwei Hao and Prof. Dr. Bo Xu</p>
-                    </div>
-                </div>
-                
-                <div class="education-item">
-                    <div class="period">2008 – 2012</div>
-                    <div class="details">
-                        <h4>B.Eng. in Automation</h4>
-                        <p class="institution">Wuhan University, Hubei, China</p>
-                    </div>
-                </div>
-            </section>
-
-            <section class="publications">
-                <h3>Publications</h3>
-                
-                <div class="publication-item">
-                    <h4>Entity Enhancement for Implicit Discourse Relation Classification in the Biomedical Domain</h4>
-                    <p class="authors"><strong>Wei Shi</strong> and Vera Demberg</p>
-                    <p class="venue">ACL-IJCNLP 2021</p>
-                    <div class="links">
-                        <a href="https://aclanthology.org/2021.acl-short.116/" class="paper-link">Paper</a>
-                    </div>
-                </div>
-
-                <div class="publication-item">
-                    <h4>Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains</h4>
-                    <p class="authors"><strong>Wei Shi</strong> and Vera Demberg</p>
-                    <p class="venue">EMNLP-IJCNLP 2019</p>
-                    <div class="links">
-                        <a href="https://www.aclweb.org/anthology/D19-1586/" class="paper-link">Paper</a>
-                    </div>
-                </div>
-
-                <div class="publication-item">
-                    <h4>A Hybrid Model for Globally Coherent Story Generation</h4>
-                    <p class="authors">Fangzhou Zhai, Vera Demberg, Pavel Shkadzko, <strong>Wei Shi</strong> and Asad Sayeed</p>
-                    <p class="venue">StoryNLP@ACL 2019</p>
-                    <div class="links">
-                        <a href="https://www.aclweb.org/anthology/W19-3404" class="paper-link">Paper</a>
-                    </div>
-                </div>
-
-                <div class="publication-item">
-                    <h4>Acquiring Annotated Data with Cross-lingual Explicitation for Implicit Discourse Relation Classification</h4>
-                    <p class="authors"><strong>Wei Shi</strong>, Frances Yung and Vera Demberg</p>
-                    <p class="venue">DISRPT@NAACL 2019</p>
-                    <div class="links">
-                        <a href="https://www.aclweb.org/anthology/W19-2703" class="paper-link">Paper</a>
-                    </div>
-                </div>
-
-                <div class="publication-item">
-                    <h4>Learning to Explicitate Connectives with Seq2Seq Network for Implicit Discourse Relation Classification</h4>
-                    <p class="authors"><strong>Wei Shi</strong> and Vera Demberg</p>
-                    <p class="venue">IWCS 2019</p>
-                    <div class="links">
-                        <a href="https://www.aclweb.org/anthology/W19-0416" class="paper-link">Paper</a>
-                    </div>
-                </div>
-
-                <div class="publication-item">
-                    <h4>Using Explicit Discourse Relation Connectives in Translation for Implicit Discourse Relation Classification</h4>
-                    <p class="authors"><strong>Wei Shi</strong>, Frances Yung, Raphael Rubino and Vera Demberg</p>
-                    <p class="venue">IJCNLP 2017</p>
-                    <div class="links">
-                        <a href="http://www.aclweb.org/anthology/I17-1049" class="paper-link">Paper</a>
-                        <a href="http://www.sfb1102.uni-saarland.de/?page_id=2582" class="data-link">Data</a>
-                    </div>
-                </div>
-
-                <div class="publication-item">
-                    <h4>On the Need of Cross Validation for Discourse Relation Classification</h4>
-                    <p class="authors"><strong>Wei Shi</strong> and Vera Demberg</p>
-                    <p class="venue">EACL 2017</p>
-                    <div class="links">
-                        <a href="http://www.aclweb.org/anthology/E17-2024" class="paper-link">Paper</a>
-                    </div>
-                </div>
-
-                <div class="publication-item">
-                    <h4>Attention-based Bidirectional Long Short-term Memory Networks for Relation Classification</h4>
-                    <p class="authors">Peng Zhou, <strong>Wei Shi</strong>, Jun Tian, Zhenyu Qi, Bingchen Li, Hongwei Hao, and Bo Xu</p>
-                    <p class="venue">ACL 2016</p>
-                    <div class="links">
-                        <a href="http://www.aclweb.org/anthology/P16-2034" class="paper-link">Paper</a>
-                    </div>
-                </div>
-            </section>
-
-            <section class="activities">
-                <h3>Professional Activities</h3>
-                <p>PC member of IEEE TCSS, CoNLL 2018-2019, NAACL-HLT 2019, ACL 2019-2020, AACL-IJCNLP 2020</p>
-            </section>
-
-            <section class="links">
-                <h3>Academic Links</h3>
-                <ul>
-                    <li><a href="https://www.uni-saarland.de/lehrstuhl/demberg.html">Research Group led by Prof. Dr. Vera Demberg</a></li>
-                    <li><a href="https://www.uni-saarland.de/en/department/lst/">Department of Language Science and Technology</a></li>
-                    <li><a href="http://www.coli.uni-saarland.de">Department of Computational Linguistics and Phonetics</a></li>
-                    <li><a href="http://www.uni-saarland.de">Saarland University</a></li>
-                </ul>
-            </section>
-        </main>
-        <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&d=5mSiN96loIZvfYd3z7bhkGdVqbvuks-uwnIiUvgM8UA'></script>
-        <footer class="footer">
-            <p>Last updated: March 2024</p>
-        </footer>
+<div class="row">
+    <div class="col-lg-3 col-md-4">
+        {% include widgets/profile_card_mini.html %}
     </div>
-</body>
-</html>
+    <div class="col-lg-9 col-md-8">
+
+        {% include widgets/profile_card_bio_only.html %}
+
+        {% if site.data.display.homepage.show_experience %}
+            {% include widgets/experience_card.html %}
+        {% endif %}
+
+        {% if site.data.display.homepage.show_news %}
+            {% assign count_news = site.news | size %}
+            {% if count_news > 0 %}
+                {% include widgets/news_card.html limit=site.data.display.homepage.num_news %}
+            {% endif %}
+        {% endif %}
+
+        {% if site.data.display.homepage.show_selected_publications %}
+            {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+            {%
+                include widgets/publication_card.html
+                publications=pubs
+                title='<i class="fas fa-star"></i> Selected Publications'
+            %}
+        {% endif %}
+    </div>
+</div>
