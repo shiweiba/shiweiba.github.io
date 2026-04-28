@@ -3,7 +3,7 @@ secondary_name: "施伟"
 navbar_name: "Wei Shi 施伟"
 
 positions:
-- name: LLM Algorithm Engineer
+- name: Staff AI Researcher, Meituan M17
 
 email: "w.shi@coli.uni-saarland.de"
 gscholar: uUp-o9IAAAAJ
@@ -14,7 +14,7 @@ linkedin: shiweiba
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Wei Shi received his Ph.D. <i>Magna Cum Laude</i> in December 2020 from
+    Wei Shi is currently a staff AI researcher at Meituan M17. Prior to that, he received his Ph.D. <i>Magna Cum Laude</i> in December 2020 from
     <a href="http://www.uni-saarland.de/" target="_blank">Saarland University</a> in Germany,
     where he worked on Natural Language Processing under the supervision of
     <a href="https://www.uni-saarland.de/lehrstuhl/demberg/members/team.html" target="_blank">Prof. Dr. Vera Demberg</a>
@@ -48,9 +48,12 @@ education:
   date: 2008 - 2012
 
 experience:
+- name: Meituan M17
+  position: Staff AI Researcher
+  date: Feb. 2024 - present
 - name: MiniMax Inc.
   position: LLM Algorithm Engineer
   date: Jun. 2022 - Jan. 2024
 - name: DAMO Academy, Alibaba Group
   position: Senior Algorithm Engineer
-  date: 2021 - 2022
+  date: Jan. 2021 - Jun. 2022
